@@ -78,12 +78,6 @@
             <version>3.8.1</version>
         </dependency>
         <!-- HttpClient 4.x -->
-        <!--添加依赖-->
-        <dependency>
-            <groupId>javax.validation</groupId>
-            <artifactId>validation-api</artifactId>
-            <version>2.0.1.Final</version>
-        </dependency>
     </dependencies>
 
 
