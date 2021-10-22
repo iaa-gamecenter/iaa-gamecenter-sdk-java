@@ -13,7 +13,7 @@ iaa-gamecenter-sdk是IG服务对外提供的GO版本的接入包，目标是让�
 # 上线注意事项
 -  业务方接入注意做好灰度验收。
 -  业务方注意超时和重试等默认配置是否合适
-# 支付Demo
+# 接入API案例
 ```aidl
         GameCenterConfigStorage gameCenterConfigStorage = new GameCenterConfigStorage();
         //初始化appId和appKey
