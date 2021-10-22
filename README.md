@@ -1,5 +1,5 @@
 # 简介
-iaa-gamecenter-sdk是IG服务对外提供的GO版本的接入包，目标是让业务方在接入IG服务时候像调用本地服务方法一样简单，而且集成了熔断，重试等能力，以提升也业务方接入效率。
+iaa-gamecenter-sdk是IG服务对外提供的JAVA版本的接入包，目标是让业务方在接入IG服务时候像调用本地服务方法一样简单，以提升也业务方接入效率。
 # 特性
 - 不依赖任何 mvc 框架，依赖极少:httpclient，fastjson,log4j,com.google.zxing，项目精简，不用担心项目迁移问题
 - 也不依赖 servlet，仅仅作为工具使用，可轻松嵌入到任何系统里
